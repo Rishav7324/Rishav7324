@@ -1,99 +1,122 @@
-# Hi, I'm Rishav 👋 (Rishav7324)
+<h1 align="center">Hi 👋, I'm Rishav Raj</h1>
 
-[![Profile views](https://komarev.com/ghpvc/?username=Rishav7324&color=0e75b6)](https://github.com/Rishav7324)
+<h3 align="center">
+AI Builder • Prompt Engineer • SaaS Creator • Full Stack Developer
+</h3>
 
-> Building reliable software, shipping delightful experiences, and learning something new every day.
-
----
-
-## 🔭 About Me
-I’m a curious software engineer who enjoys solving real-world problems with clean code and pragmatic design. I contribute to open source, build projects end-to-end, and love mentoring others. I focus on producing reliable, maintainable systems and shipping value quickly.
-
-- 🔭 Currently building: Project X — a [short project tagline / link]
-- 🌱 I’m learning: advanced system design, observability, and distributed tracing
-- 👯 I’m open to collaborating on: open-source tools, developer experience, and cloud-native apps
-- 💬 Ask me about: web development, APIs, and developer tooling
-- 📫 How to reach me: (see Contact section below)
-- ⚡ Fun fact: I love turning complex problems into clear, testable code
+<p align="center">
+Building products where AI, design, and engineering work together.
+</p>
 
 ---
 
-## 🚀 Core Skills
-- Languages: JavaScript/TypeScript, Python, Go
-- Backend: Node.js, Express, FastAPI, gRPC
-- Frontend: React, Next.js, Tailwind CSS
-- Cloud & Infra: AWS (Lambda, ECS), Docker, Terraform
-- Data & Tools: PostgreSQL, Redis, Prometheus, Grafana
-- Testing & QA: Jest, PyTest, Playwright, CI/CD pipelines
+## 🚀 About Me
 
-> Tip: Swap or reorder the sections above to reflect your strongest skills first.
+I'm Rishav Raj, an independent builder from India focused on creating modern AI-powered digital products, developer tools, and creator platforms.
+
+I love turning ideas into scalable products with clean architecture, premium UI, and practical business value.
 
 ---
 
-## 🏆 Highlights
-- Designed and shipped production services with 99.9% availability
-- Contributor to [ExampleOSS](https://github.com/example/oss) (link to an actual repo)
-- Reduced API latency by 40% through profiling and optimization
-- Mentored interns and colleagues on best practices and code review
+## 🔭 Currently Building
+
+### 🌐 Prontly
+
+AI prompt marketplace for creators, designers, marketers, and developers.
+
+Features:
+
+- Premium AI prompt library
+- Smart prompt search
+- Creator dashboard
+- Blog ecosystem
+- Secure digital product delivery
+
+### 🎵 BeatFlow
+
+Modern music streaming and offline playback system.
+
+Features:
+
+- Offline playback
+- Smart playlist engine
+- Equalizer support
+- Personalized listening
+
+### ⌨ RR Hacker Keyboard
+
+Production-grade Android keyboard built using Kotlin.
+
+Features:
+
+- Advanced typing engine
+- Multiple modes
+- Security-first architecture
+- Custom layouts
 
 ---
 
-## 📁 Featured Projects
-- [Project-A](https://github.com/your-org/project-a) — Short description of what it does and why it matters.
-- [Project-B](https://github.com/your-org/project-b) — Tools/stack used and a measurable outcome.
-- [Project-C](https://github.com/your-org/project-c) — An interesting technical challenge you solved.
+## 🛠 Tech Stack
 
-(Replace the links above with your favorite repos and one-line descriptions.)
+### Frontend
 
----
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge)
 
-## 🔧 Tools & Tech (icons optional)
-| Languages | Frameworks | DevOps | Datastores |
-|---|---:|---|---:|
-| TypeScript • Python • Go | React • Next.js • Express • FastAPI | Docker • GitHub Actions • Terraform | PostgreSQL • Redis • MongoDB |
+### Backend & Cloud
 
----
-
-## 📈 GitHub Stats
-<!-- You can uncomment and customize images below after adding your GitHub username -->
-<!--
-![Rishav's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rishav7324&show_icons=true&theme=radical)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rishav7324&layout=compact&theme=radical)
--->
+![Node.js](https://img.shields.io/badge/Node.js-green?style=for-the-badge)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-orange?style=for-the-badge)
+![Firebase](https://img.shields.io/badge/Firebase-yellow?style=for-the-badge)
 
 ---
 
-## ✍️ Blog & Writing
-I write about engineering, system design, and developer productivity. See my latest posts:
-- [Post Title 1](#) — short summary
-- [Post Title 2](#) — short summary
+## 🎯 Focus Areas
+
+- AI Prompt Engineering
+- SaaS Product Development
+- Landing Page Optimization
+- UI/UX Systems
+- Developer Tools
+- Digital Product Infrastructure
 
 ---
 
-## 📫 Contact & Socials
-- Email: your.email@example.com
-- LinkedIn: [Your Name](https://linkedin.com/in/yourprofile)
-- Twitter: [@yourhandle](https://twitter.com/yourhandle)
-- Website / Portfolio: https://yourdomain.com
+## 📌 Featured Projects
+
+| Project | Description |
+|---|---|
+| Prontly | AI Prompt Marketplace |
+| BeatFlow | Music Streaming Platform |
+| RR Hacker Keyboard | Advanced Android Keyboard |
+| Temp Mail | Privacy-first email platform |
 
 ---
 
-## 🤝 How to Work With Me
-- I prefer asynchronous collaboration (issues + PRs) and clear acceptance criteria.
-- I review PRs thoughtfully and value constructive feedback.
-- If you're hiring or want to collaborate, mention the project scope and timeline.
+## 📈 GitHub Goals 2026
+
+- Build 10 production-grade products
+- Open source useful developer tools
+- Grow Prontly into a global AI brand
+- Contribute to real-world AI workflows
 
 ---
 
-## 🎯 Goals & Roadmap
-- Improve observability across services (tracing + metrics).
-- Contribute to at least two major open-source projects this year.
-- Build a small library for reusable authentication flows.
+## 🌍 Connect With Me
+
+- Instagram: @rishavraj7324
+- X: @rishavraj7324
+- Portfolio: https://www.prontly.in
 
 ---
 
-## 📌 Want a tailored README?
-I can personalize this README for your profile (shorter, technical, creative, or recruiter-friendly). Tell me a few details (see questions below) and I’ll update this file.
+## ⚡ Personal Motto
+
+> Build fast. Ship smart. Improve endlessly.
 
 ---
-Made with ❤️ — let's build something great.
+
+<p align="center">
+Made with ❤️ by Rishav Raj
+</p>
