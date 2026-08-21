@@ -1,122 +1,134 @@
-<h1 align="center">Hi 👋, I'm Rishav Raj</h1>
+<div align="center">
 
-<h3 align="center">
-AI Builder • Prompt Engineer • SaaS Creator • Full Stack Developer
-</h3>
+# Hi 👋, I'm Rishav Raj
 
-<p align="center">
-Building products where AI, design, and engineering work together.
+### Indie Builder • Full-Stack Developer • AI & Automation Enthusiast
+
+I turn ideas into usable digital products — from SaaS platforms and developer tools to privacy-focused Android apps.
+
+<p>
+  <a href="https://github.com/Rishav7324"><img src="https://img.shields.io/github/followers/Rishav7324?label=Followers&style=flat-square" alt="GitHub followers"></a>
+  <a href="https://github.com/Rishav7324?tab=repositories"><img src="https://img.shields.io/badge/Projects-GitHub-181717?style=flat-square&logo=github" alt="Projects"></a>
+  <a href="https://www.prontly.in"><img src="https://img.shields.io/badge/Prontly-Product-6C63FF?style=flat-square" alt="Prontly"></a>
 </p>
 
----
-
-## 🚀 About Me
-
-I'm Rishav Raj, an independent builder from India focused on creating modern AI-powered digital products, developer tools, and creator platforms.
-
-I love turning ideas into scalable products with clean architecture, premium UI, and practical business value.
+</div>
 
 ---
 
-## 🔭 Currently Building
+## 🚀 What I Build
 
-### 🌐 Prontly
+I like working at the intersection of **software, product design, AI, and automation**.
 
-AI prompt marketplace for creators, designers, marketers, and developers.
+My GitHub work ranges from full-stack web applications and SaaS experiments to Android apps, developer utilities, content-generation tools, and security/privacy-focused projects.
 
-Features:
-
-- Premium AI prompt library
-- Smart prompt search
-- Creator dashboard
-- Blog ecosystem
-- Secure digital product delivery
-
-### 🎵 BeatFlow
-
-Modern music streaming and offline playback system.
-
-Features:
-
-- Offline playback
-- Smart playlist engine
-- Equalizer support
-- Personalized listening
-
-### ⌨ RR Hacker Keyboard
-
-Production-grade Android keyboard built using Kotlin.
-
-Features:
-
-- Advanced typing engine
-- Multiple modes
-- Security-first architecture
-- Custom layouts
+> **Build → ship → learn → improve.**
 
 ---
 
-## 🛠 Tech Stack
+## 🔥 Featured Projects
+
+| Project | What it is | Stack / Focus |
+|---|---|---|
+| **[Prontly](https://github.com/Rishav7324/Prontly)** | AI-focused product platform | Next.js · React · Firebase · Genkit · Tiptap |
+| **[Prontly Store](https://github.com/Rishav7324/Prontly--store)** | Digital product marketplace | Next.js · React · Firebase · Razorpay · R2/S3 |
+| **[Tolinks](https://github.com/Rishav7324/tolinks)** | Link-in-bio / creator platform | Next.js · React · Firebase · Cloud infrastructure |
+| **[DocuScan OCR](https://github.com/Rishav7324/DocuScan-OCR)** | Privacy-focused Android document scanner | Kotlin · Jetpack Compose · ML Kit · AES-GCM |
+| **[Acode DevToolkit](https://github.com/Rishav7324/acode-devtoolkit)** | Lightweight developer toolkit | Open source · JSON · Base64 · UUID |
+| **[Universal Media Hub](https://github.com/Rishav7324/Universal-media-hub-)** | Media utility / downloader project | Web · Python · Media tooling |
+| **[Beat Flow Music](https://github.com/Rishav7324/Beat-Flow-Music)** | Music player concept | Android · Offline-first experience |
+
+---
+
+## 🧠 Current Interests
+
+- AI-powered products and workflows
+- Full-stack SaaS development
+- Developer tools and automation
+- Premium, responsive UI/UX
+- Privacy-first applications
+- Digital products and creator platforms
+- SEO, content systems, and product growth
+
+---
+
+## 🛠️ Tech Stack
 
 ### Frontend
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge)
-![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge)
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" alt="Frontend stack">
+</p>
 
-### Backend & Cloud
+### Backend, Cloud & Data
 
-![Node.js](https://img.shields.io/badge/Node.js-green?style=for-the-badge)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-orange?style=for-the-badge)
-![Firebase](https://img.shields.io/badge/Firebase-yellow?style=for-the-badge)
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,python,firebase,cloudflare,vercel" alt="Backend and cloud stack">
+</p>
 
----
+### Mobile & Tooling
 
-## 🎯 Focus Areas
+<p>
+  <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,git,github" alt="Mobile and tooling stack">
+</p>
 
-- AI Prompt Engineering
-- SaaS Product Development
-- Landing Page Optimization
-- UI/UX Systems
-- Developer Tools
-- Digital Product Infrastructure
+### AI / Product Tooling
 
----
-
-## 📌 Featured Projects
-
-| Project | Description |
-|---|---|
-| Prontly | AI Prompt Marketplace |
-| BeatFlow | Music Streaming Platform |
-| RR Hacker Keyboard | Advanced Android Keyboard |
-| Temp Mail | Privacy-first email platform |
+<p>
+  <img src="https://img.shields.io/badge/Genkit-AI%20Workflows-111827?style=for-the-badge" alt="Genkit">
+  <img src="https://img.shields.io/badge/Tiptap-Rich%20Text-111827?style=for-the-badge" alt="Tiptap">
+  <img src="https://img.shields.io/badge/Razorpay-Payments-111827?style=for-the-badge" alt="Razorpay">
+</p>
 
 ---
 
-## 📈 GitHub Goals 2026
+## 💡 How I Think About Projects
 
-- Build 10 production-grade products
-- Open source useful developer tools
-- Grow Prontly into a global AI brand
-- Contribute to real-world AI workflows
+I care less about building another demo and more about making an idea feel like a **real product**.
 
----
+That means thinking about:
 
-## 🌍 Connect With Me
-
-- Instagram: @rishavraj7324
-- X: @rishavraj7324
-- Portfolio: https://www.prontly.in
+- clean interfaces and mobile responsiveness
+- authentication, data flow, storage, and security
+- SEO and discoverability
+- practical monetization
+- automation and maintainability
+- shipping something people can actually use
 
 ---
 
-## ⚡ Personal Motto
-
-> Build fast. Ship smart. Improve endlessly.
-
----
+## 📊 GitHub Activity
 
 <p align="center">
-Made with ❤️ by Rishav Raj
+  <img src="https://github-readme-stats.vercel.app/api?username=Rishav7324&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" height="165" alt="GitHub stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rishav7324&layout=compact&hide_border=true&theme=transparent" height="165" alt="Top languages">
 </p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Rishav7324&hide_border=true&theme=transparent" alt="GitHub streak">
+</p>
+
+---
+
+## 🌱 Open Source & Experiments
+
+I regularly experiment with ideas across **AI, SaaS, automation, Android, privacy, developer tooling, and web products**. Some repositories are production-oriented, while others are prototypes or research experiments — I keep both because the fastest way to learn is to build.
+
+---
+
+## 📫 Find Me
+
+<p>
+  <a href="https://github.com/Rishav7324">GitHub</a> ·
+  <a href="https://www.prontly.in">Prontly</a>
+</p>
+
+---
+
+<div align="center">
+
+### ⚡ Build something useful.
+
+<sub>Made with curiosity, code, and a lot of iteration.</sub>
+
+</div>
