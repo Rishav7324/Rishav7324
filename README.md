@@ -18,37 +18,78 @@ I turn ideas into usable digital products — from SaaS platforms and developer 
 
 ## 🚀 What I Build
 
-I like working at the intersection of **software, product design, AI, and automation**.
+I work at the intersection of **software, product design, AI, automation, and developer tooling**.
 
-My GitHub work ranges from full-stack web applications and SaaS experiments to Android apps, developer utilities, content-generation tools, and security/privacy-focused projects.
+My GitHub is a mix of production-oriented products, open-source utilities, AI experiments, automation systems, Android applications, and web projects.
 
 > **Build → ship → learn → improve.**
 
 ---
 
-## 🔥 Featured Projects
+## ⭐ Featured Open Source
 
-| Project | What it is | Stack / Focus |
-|---|---|---|
-| **[Prontly](https://github.com/Rishav7324/Prontly)** | AI-focused product platform | Next.js · React · Firebase · Genkit · Tiptap |
-| **[Prontly Store](https://github.com/Rishav7324/Prontly--store)** | Digital product marketplace | Next.js · React · Firebase · Razorpay · R2/S3 |
-| **[Tolinks](https://github.com/Rishav7324/tolinks)** | Link-in-bio / creator platform | Next.js · React · Firebase · Cloud infrastructure |
-| **[DocuScan OCR](https://github.com/Rishav7324/DocuScan-OCR)** | Privacy-focused Android document scanner | Kotlin · Jetpack Compose · ML Kit · AES-GCM |
-| **[Acode DevToolkit](https://github.com/Rishav7324/acode-devtoolkit)** | Lightweight developer toolkit | Open source · JSON · Base64 · UUID |
-| **[Universal Media Hub](https://github.com/Rishav7324/Universal-media-hub-)** | Media utility / downloader project | Web · Python · Media tooling |
-| **[Beat Flow Music](https://github.com/Rishav7324/Beat-Flow-Music)** | Music player concept | Android · Offline-first experience |
+### 🛡️ [DocuScan OCR](https://github.com/Rishav7324/DocuScan-OCR)
+Privacy-focused Android document scanner with on-device OCR, document processing, encryption, exports, and optional multi-cloud sync.
+
+**Kotlin · Jetpack Compose · ML Kit · AES-GCM · Android Keystore**
+
+### ⚡ [SocialSaver](https://github.com/Rishav7324/SocialSaver)
+Open-source media downloader supporting 1000+ platforms through yt-dlp, with a FastAPI backend, real-time progress, rate limiting, automatic cleanup, and privacy-first design.
+
+**Python · FastAPI · yt-dlp · FFmpeg · REST API**
+
+### 🔔 [Prontly Notify](https://github.com/Rishav7324/Prontly-Notify)
+Full-stack push notification infrastructure concept with campaigns, audience segmentation, automation flows, analytics, AI optimization, billing, and Cloudflare-based infrastructure.
+
+**Next.js · TypeScript · Cloudflare D1/R2/KV · FCM · Razorpay**
+
+### 🤖 [AutoTest Deploy Bot](https://github.com/Rishav7324/autotest-deploy-bot)
+Reusable automation pipeline that discovers API routes, tests endpoints, invokes an AI coding agent to fix failures, pushes changes, deploys to Vercel, checks logs, and loops until clean.
+
+**Node.js · GitHub · Vercel · AI CLI Agents · API Testing**
+
+### 🧰 [Acode DevToolkit](https://github.com/Rishav7324/acode-devtoolkit)
+Open-source developer toolkit for Acode with practical utilities such as UUID generation, JSON formatting, and Base64 tools.
+
+**JavaScript · Developer Tools · Open Source**
+
+### 🧠 [Prontly Content Engine](https://github.com/Rishav7324/seo-friendly-content-generator-claude-skill)
+A research-first AI content system designed for SEO writing, technical documentation, tutorials, reports, troubleshooting guides, and structured content workflows.
+
+**AI Workflows · Prompt Engineering · SEO · Documentation**
 
 ---
 
-## 🧠 Current Interests
+## 🌐 More Projects
 
-- AI-powered products and workflows
-- Full-stack SaaS development
+| Project | Focus |
+|---|---|
+| [Prontly](https://github.com/Rishav7324/Prontly) | AI-powered product platform |
+| [Prontly Store](https://github.com/Rishav7324/Prontly--store) | Digital product marketplace |
+| [Tolinks](https://github.com/Rishav7324/tolinks) | Link-in-bio / creator platform |
+| [Custom Software Hub](https://github.com/Rishav7324/Custom-software-downloading-web-application) | Software discovery & download platform |
+| [Phone Intel Bot](https://github.com/Rishav7324/phone-intel-bot) | Telegram intelligence & developer utility bot |
+| [AI Security Research Assistant](https://github.com/Rishav7324/ai-security-research-assistant) | AI + security research experiment |
+| [Beat Flow Music](https://github.com/Rishav7324/Beat-Flow-Music) | Android music application experiment |
+| [CompBoard](https://github.com/Rishav7324/CompBoard) | AI-powered application experiment |
+| [SEO Content Generator Skill](https://github.com/Rishav7324/seo-friendly-content-generator-claude-skill) | AI content / SEO automation |
+| [YouTube Downloader](https://github.com/Rishav7324/Youtube-Downloader) | Media downloading experiment |
+| [SocialSaver](https://github.com/Rishav7324/SocialSaver) | Open-source media downloader |
+| [Prontly Notify](https://github.com/Rishav7324/Prontly-Notify) | Push notification infrastructure |
+
+---
+
+## 🧠 What I'm Exploring
+
+- AI-powered products and agent workflows
+- Full-stack SaaS architecture
 - Developer tools and automation
-- Premium, responsive UI/UX
 - Privacy-first applications
-- Digital products and creator platforms
+- Android development
+- Media processing systems
+- Creator and digital-product platforms
 - SEO, content systems, and product growth
+- Cloud-native infrastructure
 
 ---
 
@@ -82,17 +123,18 @@ My GitHub work ranges from full-stack web applications and SaaS experiments to A
 
 ---
 
-## 💡 How I Think About Projects
+## 💡 My Product Philosophy
 
-I care less about building another demo and more about making an idea feel like a **real product**.
+I care less about making another demo and more about making an idea feel like a **real product**.
 
 That means thinking about:
 
-- clean interfaces and mobile responsiveness
+- clean interfaces and responsive UX
 - authentication, data flow, storage, and security
 - SEO and discoverability
-- practical monetization
 - automation and maintainability
+- practical monetization
+- observability and deployment
 - shipping something people can actually use
 
 ---
@@ -110,9 +152,11 @@ That means thinking about:
 
 ---
 
-## 🌱 Open Source & Experiments
+## 🌱 Open Source Mindset
 
-I regularly experiment with ideas across **AI, SaaS, automation, Android, privacy, developer tooling, and web products**. Some repositories are production-oriented, while others are prototypes or research experiments — I keep both because the fastest way to learn is to build.
+I enjoy building in public, experimenting with new ideas, and turning useful experiments into reusable tools. Some repositories are polished products; others are intentionally small experiments or proofs of concept.
+
+The common thread is simple: **learn by building and make the next project better than the last.**
 
 ---
 
