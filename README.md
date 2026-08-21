@@ -4,11 +4,11 @@
 
 ### Indie Builder • Full-Stack Developer • AI & Automation Enthusiast
 
-I turn ideas into usable digital products — from SaaS platforms and developer tools to privacy-focused Android apps.
+I turn ideas into usable digital products — from SaaS platforms and developer tools to privacy-focused apps and AI-powered workflows.
 
 <p>
   <a href="https://github.com/Rishav7324"><img src="https://img.shields.io/github/followers/Rishav7324?label=Followers&style=flat-square" alt="GitHub followers"></a>
-  <a href="https://github.com/Rishav7324?tab=repositories"><img src="https://img.shields.io/badge/Projects-GitHub-181717?style=flat-square&logo=github" alt="Projects"></a>
+  <a href="https://github.com/Rishav7324?tab=repositories"><img src="https://img.shields.io/badge/Projects-Explore-181717?style=flat-square&logo=github" alt="Projects"></a>
   <a href="https://www.prontly.in"><img src="https://img.shields.io/badge/Prontly-Product-6C63FF?style=flat-square" alt="Prontly"></a>
 </p>
 
@@ -18,11 +18,11 @@ I turn ideas into usable digital products — from SaaS platforms and developer 
 
 ## 🚀 What I Build
 
-I work at the intersection of **software, product design, AI, automation, and developer tooling**.
-
-My GitHub is a mix of production-oriented products, open-source utilities, AI experiments, automation systems, Android applications, and web projects.
+I work across **software engineering, product design, AI, automation, developer tooling, and mobile applications**.
 
 > **Build → ship → learn → improve.**
+
+My repositories include production-oriented products, open-source utilities, AI experiments, Android applications, and full-stack web platforms.
 
 ---
 
@@ -33,30 +33,40 @@ Privacy-focused Android document scanner with on-device OCR, document processing
 
 **Kotlin · Jetpack Compose · ML Kit · AES-GCM · Android Keystore**
 
-### ⚡ [SocialSaver](https://github.com/Rishav7324/SocialSaver)
-Open-source media downloader supporting 1000+ platforms through yt-dlp, with a FastAPI backend, real-time progress, rate limiting, automatic cleanup, and privacy-first design.
-
-**Python · FastAPI · yt-dlp · FFmpeg · REST API**
-
-### 🔔 [Prontly Notify](https://github.com/Rishav7324/Prontly-Notify)
-Full-stack push notification infrastructure concept with campaigns, audience segmentation, automation flows, analytics, AI optimization, billing, and Cloudflare-based infrastructure.
-
-**Next.js · TypeScript · Cloudflare D1/R2/KV · FCM · Razorpay**
-
-### 🤖 [AutoTest Deploy Bot](https://github.com/Rishav7324/autotest-deploy-bot)
-Reusable automation pipeline that discovers API routes, tests endpoints, invokes an AI coding agent to fix failures, pushes changes, deploys to Vercel, checks logs, and loops until clean.
-
-**Node.js · GitHub · Vercel · AI CLI Agents · API Testing**
-
 ### 🧰 [Acode DevToolkit](https://github.com/Rishav7324/acode-devtoolkit)
-Open-source developer toolkit for Acode with practical utilities such as UUID generation, JSON formatting, and Base64 tools.
+Open-source developer toolkit for Acode with practical utilities for everyday development workflows.
 
 **JavaScript · Developer Tools · Open Source**
 
 ### 🧠 [Prontly Content Engine](https://github.com/Rishav7324/seo-friendly-content-generator-claude-skill)
-A research-first AI content system designed for SEO writing, technical documentation, tutorials, reports, troubleshooting guides, and structured content workflows.
+Research-first AI content system for SEO writing, technical documentation, tutorials, reports, troubleshooting guides, and structured content workflows.
 
 **AI Workflows · Prompt Engineering · SEO · Documentation**
+
+### 📦 [Prontly Store](https://github.com/Rishav7324/Prontly--store)
+Digital product marketplace project focused on product discovery, digital delivery, payments, content management, and a complete admin workflow.
+
+**Next.js · TypeScript · Firebase · Cloudflare · Razorpay**
+
+### 🔗 [Tolinks](https://github.com/Rishav7324/tolinks)
+Creator-focused link-in-bio platform designed around customizable pages, analytics, templates, media, authentication, and monetization.
+
+**Next.js · TypeScript · Firebase · Cloudflare · Razorpay**
+
+### 🏗️ [Prontly](https://github.com/Rishav7324/Prontly)
+A broader product platform experiment combining web product development, content workflows, administration, and SaaS-style infrastructure.
+
+**Next.js · TypeScript · Firebase · Cloudflare**
+
+### 🤖 [AI Security Research Assistant](https://github.com/Rishav7324/ai-security-research-assistant)
+AI-focused security research and experimentation project exploring how intelligent workflows can assist with technical security analysis.
+
+**AI · Security Research · Automation**
+
+### 📱 [Phone Intel Bot](https://github.com/Rishav7324/phone-intel-bot)
+Telegram-based multi-tool suite covering phone metadata, network utilities, DNS/OSINT tooling, QR generation, cryptographic utilities, and developer helpers.
+
+**Python · Telegram Bot API · SQLite · Async Architecture**
 
 ---
 
@@ -64,18 +74,15 @@ A research-first AI content system designed for SEO writing, technical documenta
 
 | Project | Focus |
 |---|---|
-| [Prontly](https://github.com/Rishav7324/Prontly) | AI-powered product platform |
-| [Prontly Store](https://github.com/Rishav7324/Prontly--store) | Digital product marketplace |
-| [Tolinks](https://github.com/Rishav7324/tolinks) | Link-in-bio / creator platform |
 | [Custom Software Hub](https://github.com/Rishav7324/Custom-software-downloading-web-application) | Software discovery & download platform |
-| [Phone Intel Bot](https://github.com/Rishav7324/phone-intel-bot) | Telegram intelligence & developer utility bot |
-| [AI Security Research Assistant](https://github.com/Rishav7324/ai-security-research-assistant) | AI + security research experiment |
-| [Beat Flow Music](https://github.com/Rishav7324/Beat-Flow-Music) | Android music application experiment |
-| [CompBoard](https://github.com/Rishav7324/CompBoard) | AI-powered application experiment |
-| [SEO Content Generator Skill](https://github.com/Rishav7324/seo-friendly-content-generator-claude-skill) | AI content / SEO automation |
-| [YouTube Downloader](https://github.com/Rishav7324/Youtube-Downloader) | Media downloading experiment |
-| [SocialSaver](https://github.com/Rishav7324/SocialSaver) | Open-source media downloader |
-| [Prontly Notify](https://github.com/Rishav7324/Prontly-Notify) | Push notification infrastructure |
+| [Beat Flow Music](https://github.com/Rishav7324/Beat-Flow-Music) | Android music application |
+| [CompBoard](https://github.com/Rishav7324/CompBoard) | AI-powered Android experiment |
+| [Makeup Site](https://github.com/Rishav7324/makeup-site) | Responsive business website |
+| [Pixel Glow Film](https://github.com/Rishav7324/pixel-Glow-Film) | Photography / creative web project |
+| [Rocket Sinha Landing Page](https://github.com/Rishav7324/rocket-Sinha-landing-page) | Modern landing page project |
+| [SEO Content Generator Skill](https://github.com/Rishav7324/seo-friendly-content-generator-claude-skill) | AI + SEO automation |
+| [Acode DevToolkit](https://github.com/Rishav7324/acode-devtoolkit) | Developer utilities |
+| [SocialSaver](https://github.com/Rishav7324/SocialSaver) | Open-source media utility |
 
 ---
 
@@ -116,14 +123,15 @@ A research-first AI content system designed for SEO writing, technical documenta
 ### AI / Product Tooling
 
 <p>
-  <img src="https://img.shields.io/badge/Genkit-AI%20Workflows-111827?style=for-the-badge" alt="Genkit">
+  <img src="https://img.shields.io/badge/AI%20Workflows-111827?style=for-the-badge" alt="AI workflows">
+  <img src="https://img.shields.io/badge/Prompt%20Engineering-111827?style=for-the-badge" alt="Prompt engineering">
   <img src="https://img.shields.io/badge/Tiptap-Rich%20Text-111827?style=for-the-badge" alt="Tiptap">
   <img src="https://img.shields.io/badge/Razorpay-Payments-111827?style=for-the-badge" alt="Razorpay">
 </p>
 
 ---
 
-## 💡 My Product Philosophy
+## 💡 Product Philosophy
 
 I care less about making another demo and more about making an idea feel like a **real product**.
 
@@ -154,7 +162,7 @@ That means thinking about:
 
 ## 🌱 Open Source Mindset
 
-I enjoy building in public, experimenting with new ideas, and turning useful experiments into reusable tools. Some repositories are polished products; others are intentionally small experiments or proofs of concept.
+I enjoy building in public, experimenting with new ideas, and turning useful experiments into reusable tools. Some repositories are polished products; others are intentionally smaller experiments or proofs of concept.
 
 The common thread is simple: **learn by building and make the next project better than the last.**
 
